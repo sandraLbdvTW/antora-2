@@ -1,5 +1,6 @@
 test site 2
 ------------
+v1.0
 
 hello *hello*
 
