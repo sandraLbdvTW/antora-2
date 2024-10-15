@@ -1,6 +1,6 @@
-name: component-2
-title: Component 2
+name: component-1
+title: Installation Guides
 version: 1.0
-#nav:
-#  - modules/ROOT/nav.adoc
+nav:
+  - modules/ROOT/nav.adoc
 #  - modules/module-one/nav.adoc
