@@ -1,1 +1,2 @@
 * xref:cats.adoc[Cats]
+* xref:dogs.adoc[Dogs]

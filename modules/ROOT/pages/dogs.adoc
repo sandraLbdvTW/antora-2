@@ -1,0 +1,24 @@
+= Dog Installation Guide
+Dog Enthusiast
+:page-layout: default
+:toc: left
+
+== Requirements
+
+- A comfy dog bed
+- Food and water bowls
+- Leash and collar
+- Toys and treats
+- Outdoor space or walking route
+
+== Installation Steps
+
+1. **Prepare your home**: Set up a cozy space with a bed and essentials.
+2. **Feed your dog**: Provide fresh food and water in the designated bowls.
+3. **Walk time**: Attach the leash and take your dog for a walk.
+4. **Play and bond**: Use toys to engage and play with your dog.
+5. **Training**: Start basic training with treats.
+
+== Conclusion
+
+Your dog is now fully installed and ready for adventures!
