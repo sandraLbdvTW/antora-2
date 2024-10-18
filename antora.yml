@@ -1,6 +1,6 @@
 name: component-2
-title: Installation Guides
-version: 2.0
+title: Dogs
+version: 1.0
 nav:
   - modules/ROOT/nav.adoc
 #  - modules/module-one/nav.adoc

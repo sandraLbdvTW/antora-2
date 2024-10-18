@@ -1,2 +1,2 @@
-* xref:cats.adoc[Cats]
-* xref:dogs.adoc[Dogs]
+* xref:overview.adoc[Dogs]
+* xref:ig.adoc[Installation Guide]
