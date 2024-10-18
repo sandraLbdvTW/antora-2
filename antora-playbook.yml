@@ -1,0 +1,13 @@
+site:
+  title: My Component Site
+  start_page: component-2::ig.adoc
+
+content:
+  sources:
+    - url: ./
+      branches: [v1.0]
+
+ui:
+  bundle:
+    url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
+    snapshot: true

@@ -1,0 +1,33 @@
+= All About Dogs
+Dog Enthusiast
+:page-layout: default
+:toc: left
+:toclevels: 2
+
+== Introduction
+
+Welcome to the ultimate test page about dogs. Man’s best friend comes in all shapes and sizes, and they’re always ready for a belly rub!
+
+== Section 1: Dog Code
+
+Here’s a Python code block that prints a message from a dog:
+
+[source,python]
+----
+def woof():
+    print("Woof, I’m a dog!")
+----
+
+== Section 2: Dog Facts
+
+- Dogs have a sense of smell 40x better than humans.
+- A dog’s sense of hearing is four times greater than ours.
+- The average dog can learn about 165 words.
+
+== Section 3: Useful Dog Links
+
+For more information, visit https://www.akc.org[American Kennel Club].
+
+== Conclusion
+
+Dogs are loyal companions and love unconditionally. This concludes our test page about them.
